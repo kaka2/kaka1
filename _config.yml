@@ -10,10 +10,10 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : kaka@github
-tagline: 基於jekyll的blog
+title : 基於jekyll的blog
+tagline: 
 author :
-  name : kaka2
+  name : kaka
   email : e.guokb@gmail.com
   github : kaka2
   twitter : guokb
@@ -27,7 +27,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://kaka1.github.com
+production_url : http://kaka2.github.com/kaka1
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -81,8 +81,8 @@ JB :
   #
   comments :
     provider : disqus
-    disqus :
-      short_name :
+    disqus : 
+      short_name : kaka2
     ivefyre :
       site_id :
     intensedebate :
